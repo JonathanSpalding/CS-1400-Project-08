@@ -1,0 +1,9 @@
+c:\users\jon\documents\visual studio 2015\Projects\DiceGame\DiceGame\bin\Debug\DiceGame.exe.config
+c:\users\jon\documents\visual studio 2015\Projects\DiceGame\DiceGame\bin\Debug\DiceGame.exe
+c:\users\jon\documents\visual studio 2015\Projects\DiceGame\DiceGame\bin\Debug\DiceGame.pdb
+c:\users\jon\documents\visual studio 2015\Projects\DiceGame\DiceGame\obj\Debug\DiceGame.csprojResolveAssemblyReference.cache
+c:\users\jon\documents\visual studio 2015\Projects\DiceGame\DiceGame\obj\Debug\DiceGame.Form1.resources
+c:\users\jon\documents\visual studio 2015\Projects\DiceGame\DiceGame\obj\Debug\DiceGame.Properties.Resources.resources
+c:\users\jon\documents\visual studio 2015\Projects\DiceGame\DiceGame\obj\Debug\DiceGame.csproj.GenerateResource.Cache
+c:\users\jon\documents\visual studio 2015\Projects\DiceGame\DiceGame\obj\Debug\DiceGame.exe
+c:\users\jon\documents\visual studio 2015\Projects\DiceGame\DiceGame\obj\Debug\DiceGame.pdb
